@@ -9,7 +9,7 @@ RPGツクールMZ用のプラグイン。
 # プロジェクトへのインポート方法
 
 1. プラグインをダウンロードする。以下のリンクをクリックすると最新のバイナリを落とせる。
-    * [IconButton-1.0.0](https://storage.googleapis.com/aurelia-github/rpgmaker-mz/iconbutton/IconButton-1.0.0.zip)
+    * [IconButton-1.0.0](https://github-storage.redspice.me/rpgmaker-mz/iconbutton/IconButton-1.0.0.zip)
 
 3. ダウンロードしたZIPファイルを展開する。
 
@@ -68,7 +68,7 @@ IconSetにはスプライトシートのファイル名を指定する。拡張�
 
 プラグインが動作しているデモを以下のGIFで示す。
 
-<img src="https://storage.googleapis.com/aurelia-github/rpgmaker-mz/iconbutton/iconbutton.gif">
+<img src="https://github-storage.redspice.me/rpgmaker-mz/iconbutton/iconbutton.gif">
 
 # 開発
 
