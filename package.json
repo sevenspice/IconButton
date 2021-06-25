@@ -7,6 +7,13 @@
   "engines": {
     "node": ">=8.11.4"
   },
+  "scripts": {
+    "preinstall": "npx npm-force-resolutions"
+  },
+  "resolutions": {
+    "yargs-parser": "^13.1.2",
+    "glob-parent": "^5.1.2"
+  },
   "devDependencies": {
     "eslint": "^6.8.0",
     "gulp": "^4.0.2",

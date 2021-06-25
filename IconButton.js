@@ -18,7 +18,7 @@
 /*:
  * @target MZ
  * @plugindesc IconButton plugin.
- * @author @BananaPepperTK
+ * @author BananaPepperTK
  *
  * @help Turn the system icon into a button.
  * 
@@ -171,7 +171,7 @@
 /*:ja
  * @target MZ
  * @plugindesc アイコンボタンプラグイン。
- * @author @BananaPepperTK
+ * @author BananaPepperTK
  *
  * @help システムアイコンをボタン化します。
  *

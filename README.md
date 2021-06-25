@@ -9,7 +9,7 @@ RPGツクールMZ用のプラグイン。
 # プロジェクトへのインポート方法
 
 1. プラグインをダウンロードする。以下のリンクをクリックすると最新のバイナリを落とせる。
-    * [IconButton-1.0.0](https://github-storage.redspice.me/rpgmaker-mz/iconbutton/IconButton-1.0.0.zip)
+    * [IconButton-1.0.1](https://github-storage.redspice.me/rpgmaker-mz/iconbutton/IconButton-1.0.1.zip)
 
 3. ダウンロードしたZIPファイルを展開する。
 
@@ -105,9 +105,9 @@ cd IconButton
 
 設定ファイルを編集する。
 ```
-copy mv.origin.json mv.json
+copy mz.origin.json mz.json
 ```
-* mv.jsonの`dest`に、インポートしたいRPGツクールMZプロジェクトのプラグインフォルダを指定すること。
+* mz.jsonの`dest`に、インポートしたいRPGツクールMZプロジェクトのプラグインフォルダを指定すること。
 
 モジュールをインストールする。
 ```
